@@ -5,10 +5,19 @@ my week8 quiz
 ```
 
 ```
-**Bold Text**
 
 # here is my Imaging Inspiration
 
+**Local images**
 
-**Bold Text**
+![The inspiration 1](readImages/inspiration1.mov)
+
+
+
+**Local images**
+
+![The inspiration 2](readImages/inspiration2.mov)
+
+
+
 # here is my Coding Exploration
