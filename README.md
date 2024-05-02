@@ -15,7 +15,8 @@ Summer's week 8 quiz
 *description：*
 
 ```
-I chose that because, although the lines are basic, the design is quite attractive. It also makes effective use of the knowledge learned during the class.
+I chose that because, although the lines are basic, the design is quite attractive. 
+It also makes effective use of the knowledge learned during the class.
 ```
 
 **The inspiration 2**
@@ -29,7 +30,8 @@ I chose that because, although the lines are basic, the design is quite attracti
 *description：*
 
 ```
-My idea is that the constantly running man rushes through the above mentioned grid in turn, and when the man rushes through the grib, the grid breaks into a hole
+My idea is that the constantly running man rushes through the above mentioned grid in turn, 
+and when the man rushes through the grib, the grid breaks into a hole
 ```
 
 # 2. here is my Coding Exploration
