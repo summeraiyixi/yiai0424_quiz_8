@@ -44,10 +44,10 @@ and when the man rushes through the grib, the grid breaks into a hole
 
   - initializes a simulation with nodes and links
 
-* Node and Link Representation: 
+* Representation: 
 
   - defines classes for nodes and links
-  - specifying their properties
+  - specifying properties
 
 * Simulation Loop:
 
@@ -75,9 +75,9 @@ https://openprocessing.org/sketch/2135557
 
 * Setup Function:
 
-  - Use setup() function to add each frame to array called animation
+  - add each frame to array called animation
 
-* Creating Sprite Objects:
+* Creating Objects:
 
   - Creates multiple instances and initializes
   - specifying positions and speed
