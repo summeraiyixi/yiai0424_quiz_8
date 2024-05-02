@@ -42,17 +42,17 @@ and when the man rushes through the grib, the grid breaks into a hole
 
 * Simulation Setup:
 
-  - initializes a simulation with nodes and links  arranged in a grid-like structure 
+  - initializes a simulation with nodes and links
 
 * Node and Link Representation: 
 
   - defines classes for nodes and links
-  - specifying their properties such as position, velocity, and connection
+  - specifying their properties
 
 * Simulation Loop:
 
   - use draw() function manages the simulation loop
-  - updating node positions based on forces and link tensions, and rendering the simulation
+  - updating node positions
 
 * User Interaction:
 
@@ -71,20 +71,20 @@ https://openprocessing.org/sketch/2135557
 
 * Loading Data and Images:
 
-  - The code containing data about frames and an image file (character.png) containing the sheet
+  - containing data about frames and an image file (character.png) in the sheet
 
 * Setup Function:
 
-  - In the setup() function, each frame is then added to an array called animation
+  - Use setup() function to add each frame to array called animation
 
 * Creating Sprite Objects:
 
-  - Creates multiple instances and initializes them with the animation array
-  - specifying their positions and animation speed
+  - Creates multiple instances and initializes
+  - specifying positions and speed
 
 * Drawing Function:
 
-  - The draw() function is responsible for rendering each frame of the animated 
+  - Use draw() function to render each frame of the animated 
 
 
 *Link of coding example:*
